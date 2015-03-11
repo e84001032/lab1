@@ -1,0 +1,13 @@
+Script started on 2015年03月11日 (週三) 18時38分57秒
+]0;E84001032@2015cpp: ~E84001032@2015cpp:~$ whoami;pwd
+E84001032
+/home/E84001032
+]0;E84001032@2015cpp: ~E84001032@2015cpp:~$ git config -l
+user.name=e84001032
+user.email=e84001032@mail.ncku.edu.tw
+]0;E84001032@2015cpp: ~E84001032@2015cpp:~$ git clone https://github.com/e84001032/lab1.g it
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;E84001032@2015cpp: ~E84001032@2015cpp:~$ exit
+
+Script done on 2015年03月11日 (週三) 18時39分24秒
